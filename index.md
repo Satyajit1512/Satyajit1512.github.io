@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Plannig to blog about whatever I am upto
+Mostly math and programming related content.
